@@ -22,7 +22,7 @@ INSTRUÇÕES DE EXECUÇÃO:
 4. Utilize o menu interativo via terminal digitando as opções de 0 a 10.
 
 DIVISÃO DE RESPONSABILIDADES:
-- Daniel Lindoso: Implementação da estrutura Produto e carga inicial (20 produtos),
+- Equipe: Implementação da estrutura Produto e carga inicial (20 produtos),
   desenvolvimento dos algoritmos de busca (Sequencial e Binária),
   desenvolvimento dos algoritmos de ordenação (Bubble, Selection, Insertion, Merge, Quick),
   instrumentação de contadores (comparações, trocas, deslocamentos),
